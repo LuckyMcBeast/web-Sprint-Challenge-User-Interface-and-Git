@@ -34,16 +34,27 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
 
-Semantic HTML is HTML markups that are discriptive of what they are and relate to. For example, ```<div>``` is not very discriptive of what it is, but ```<section>``` is, and ```<b>``` is far less definative than ```<strong>```. Though in both of these examples, each option essentially does the same thing, the latter in each improves readablity.
+- Semantic HTML is HTML markups that are discriptive of what they are and relate to. For example, ```<div>``` is not very discriptive of what it is, but ```<section>``` is, and ```<b>``` is far less definative than ```<strong>```. Though in both of these examples, each option essentially does the same thing, the latter in each improves readablity.
 
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
 
+- ```display: block;``` and ```display: inline;``` are both different ways to organize and display content on a page. Block places content on a new line every time where as inline code displays content on the same line.
 
 3. What are the 4 areas of the box model?
 
+- From outer most to inner most:
+ - Content
+ - Padding
+ - Border
+ - Margin
+
 4. While using flexbox, what axis does the following property work on: ```align-items: center```?
 
+It displays content on the X-axis.
+
 5. Explain why git is valuable to a team of developers.
+
+Git allows developers to work on the same project simultaneously, retaining the integrity of the main part of the project. It also helps to prevent data loss.
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
