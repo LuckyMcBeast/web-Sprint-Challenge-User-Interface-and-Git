@@ -91,6 +91,11 @@ p {
     margin: 1rem 0rem 2rem 0rem;
 }
 
+.top-about{
+    border-bottom: 1px dashed black;
+    margin-bottom: 20px;
+}
+
 .top-content .text-container {
     width: 48%;
     padding: 0 1%;
@@ -139,6 +144,11 @@ p {
 
 .middle-about .middle-row{
     display: flex;
+    justify-content: space-evenly;
+}
+
+.middle-square{
+
 }
 
 .middle-content .boxes .box:nth-of-type(1){
