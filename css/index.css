@@ -163,14 +163,16 @@ p {
     width: 40%;
     height: 10%;
     padding: 5% 5%;
-    margin: 20px 20px 20px 20px;
+    margin: 20px 0 20px 0;
     text-decoration: none;
-    border: 1px solid black;
-    border-radius: 10%;
+    border: 2px solid black;
+    border-radius: 20%;
     color: black;
     text-align: center;
 }
-
+.middle-square img{
+    margin-bottom: 20px;
+}
 .foot-about{
     margin-bottom: 20px;
 }
