@@ -162,13 +162,14 @@ p {
 .middle-square a{
     width: 40%;
     height: 10%;
-    padding: 5% 5%;
+    padding: 5% 5% 7% 5%;
     margin: 20px 0 20px 0;
     text-decoration: none;
     border: 2px solid black;
     border-radius: 20%;
     color: black;
     text-align: center;
+    vertical-align: middle;
 }
 .middle-square img{
     margin-bottom: 20px;
