@@ -132,6 +132,15 @@ p {
     justify-content: center;
 }
 
+.middle-about{
+    display: flex;
+    flex-direction: column;
+}
+
+.middle-about .middle-row{
+    display: flex;
+}
+
 .middle-content .boxes .box:nth-of-type(1){
     background: teal;
 }
