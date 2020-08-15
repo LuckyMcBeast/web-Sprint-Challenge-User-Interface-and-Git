@@ -173,9 +173,6 @@ p {
 .middle-square img{
     margin-bottom: 20px;
 }
-.foot-about{
-    margin-bottom: 20px;
-}
 
 .middle-content .boxes .box:nth-of-type(1){
     background: teal;
@@ -225,6 +222,10 @@ p {
 footer {
     width: 100%;
     background: black;
+}
+
+.foot-about{
+    margin-bottom: 20px;
 }
 
 footer nav {
